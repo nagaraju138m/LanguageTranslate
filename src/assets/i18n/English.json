@@ -1,0 +1,7 @@
+{
+    "Home" : {
+        "Title" : "this is title",
+        "Text" : "Since lazy loaded modules use a different injector from the rest of your application, you can configure them separately with a different loader/compiler/parser/missing translations handler.",
+        "select" : "Select Language"
+        }
+}
